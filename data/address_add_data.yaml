@@ -1,0 +1,8 @@
+
+test_address_add:
+  test_address_add_001:
+    name: "xiaoai123"
+    tel: "13555587255"
+  test_address_add_002:
+    name: "xiaomei123"
+    tel: "13555888888"
